@@ -1,2 +1,5 @@
 # Social_Research
-esercizio di social research con analisi sentimentale, analisi sulla felicità degli stati
+Project for the exam of Social Research. Social Network Analysis.
+Dataset about the partecipate firms with every district in Verona.
+Analysis about networks and so on.
+Jupyter Notebook to present the results.
